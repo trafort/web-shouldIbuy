@@ -1,2 +1,2 @@
 # web-shouldIbuy
-A Web App of SHould I Buy
+A Web App of Should I Buy
